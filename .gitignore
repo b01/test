@@ -1,0 +1,9 @@
+# Directories
+#------------
+/.idea/
+
+# Files
+#------
+*.swp
+.DS_Store
+*.code-workspace
